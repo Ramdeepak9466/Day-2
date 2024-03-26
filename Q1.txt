@@ -1,0 +1,10 @@
+The difference between documents and window objects
+
+Window manages browser interactions, while Document acts as an interface for content manipulation.
+
+Document objects
+- It's the HTML document that appears in the browser window and serves as an interface for interacting with the web page’s content.
+
+Windows objects
+- It's a global object in client-side JavaScript, 
+  representing the browser window containing a DOM document and acting as the root of the document object model.
